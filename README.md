@@ -1,4 +1,4 @@
-![logo](https://github.com/anmolkumar1001/anmolkumar1001/blob/main/Anmol%20Kumar.png)
+![logo](https://github.com/anmolkumar1001/anmolkumar1001/blob/main/anmolkumar.jpeg)
 <h1 align="center">Hi 👋, I'm Anmol Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
