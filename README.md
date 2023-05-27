@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anmolkumar5003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anmolkumar5003" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anmol-kumar-734aa5209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol-kumar10/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anmol-kumar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol-kumar10/" height="30" width="40" /></a>
 <a href="https://fb.com/anmolkumar.kumar.9678" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anmolkumar.kumar.9678" height="30" width="40" /></a>
 <a href="https://instagram.com/anmolkumar10_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anmolkumar_1001" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anmol_1001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anmol_1001" height="30" width="40" /></a>
