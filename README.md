@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolkumar1001&label=Profile%20views&color=0e75b6&style=flat" alt="anmolkumar1001" /> </p>
 
-- 🌱 I’m currently learning **Frameworks, Courses etc.**
+- 🌱 I am **Anmol Kumar**, currently pursuing my final year bachelors from RNSIT, Bangalore in *Information Science and Engineering*. <br>
 
 - 👨‍💻 All of my projects are available at [https://github.com/anmolkumar1001](https://github.com/anmolkumar1001)
 
