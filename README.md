@@ -10,6 +10,7 @@
 
 ## Skills and Technologies
 ### Languages
+- Java
 - JavaScript
 - TypeScript
 - Python
